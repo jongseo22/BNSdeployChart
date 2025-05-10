@@ -3,12 +3,12 @@ entries:
   BNSdeploy:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-05-11T02:57:32.952062635+09:00"
+    created: "2025-05-11T04:19:10.946575489+09:00"
     description: A Helm chart for Kubernetes
-    digest: 7f4e526e0bab0b3c4d735c4036dbaba2a3f8205070235ce05244a9cc97fac5a5
+    digest: 4c62037c965f8b68515ff212fd6b1baeb5945dd187fde72925cfb72b341c5c8c
     name: BNSdeploy
     type: application
     urls:
     - BNSdeploy-0.1.0.tgz
     version: 0.1.0
-generated: "2025-05-11T02:57:32.950309312+09:00"
+generated: "2025-05-11T04:19:10.944242021+09:00"
